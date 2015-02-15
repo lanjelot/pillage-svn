@@ -13,3 +13,4 @@ Below are the tools I am aware of:
 - https://github.com/damnsecure/FlowerMonkey but it did not seem to download sub-directories
 - https://github.com/anantshri/svn-extractor but it did not seem to download svn:externals
 - https://github.com/NetSPI/SVNentriesParser was released after I wrote pillage-svn, haven't tried it out 
+- https://github.com/kost/dvcs-ripper was released after I wrote pillage-svn, haven't tried it out
